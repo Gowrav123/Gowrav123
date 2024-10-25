@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gowrav BG</h1>
-<h3 align="center">Web development enthusiast</h3>
+<h3 align="center">
 
-- 🌱 I’m currently learning **Frond-end and Back-end Technologies**
-
-- 🤝 I’m looking for help with **Server Side development using Nodejs ,database and more**
 
 - 📫 How to reach me **gowravgururaj@gmail.com**
 
