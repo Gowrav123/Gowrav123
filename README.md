@@ -2,7 +2,7 @@
 <h3 align="center">I am currently pursuing my Master's degree at UCSC and am seeking summer Internship/Full time opportunities for 2025. I am eager to work in the semiconductor field, building on my previous experience as an Application Engineer at Keysight Technologies, where I specialized in wireless sensor communication and general test automation. I look forward to contributing my skills and knowledge to a dynamic team in this exciting industry. -> Experience in Python, C,System Verilog, Verilog, Perl,Innovus,Genus,Voltus and Tempus ->Strong Fundamentals in Physical Design Flow</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Innovus, Perl and TCl**
+- 🌱 I’m currently learning **Innovus, Perl and TCL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gowrav123](https://github.com/Gowrav123)
 
